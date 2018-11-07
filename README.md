@@ -1,5 +1,9 @@
 # Introduction
  robotic is a test framework based on Robot Framework for auto test
+ 
+## 描述
+此结构适用于所有自动化测试，可以在此框架上改造成适合项目的接口自动化、网页自动化、soa自动化，允许多环境配置，单用例、多用例运行、并发运行
+简化robot本身的自带的一些功能，如有需要，请在robot_options中按照robot的规则添加
 
 ## Usage
 
