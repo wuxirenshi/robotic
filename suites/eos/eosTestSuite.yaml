@@ -1,0 +1,11 @@
+test_cases_path: 'suites/eos/tests/'
+test_cases:
+ - TC-Test.robot
+
+# 各环境域名可能不同，数据可能不同，校验数据也可能不同，具体如何改造可以自己操作
+alpha:
+  domain: http://api.github.com
+
+beta:
+  domain: http://api.github.com
+

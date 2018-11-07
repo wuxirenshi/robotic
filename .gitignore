@@ -1,0 +1,9 @@
+# Created by .ignore support plugin (hsz.mobi)
+
+venv
+.venv
+log.html
+output.xml
+report.html
+.idea
+*.pyc
